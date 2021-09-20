@@ -16,4 +16,15 @@
         <maven.compiler.target>8</maven.compiler.target>
     </properties>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.mola</groupId>
+            <artifactId>IndexedCache-client</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.mola</groupId>
+            <artifactId>IndexedCache-web</artifactId>
+        </dependency>
+    </dependencies>
+
 </project>
